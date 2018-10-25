@@ -82,11 +82,10 @@ div.topNavBar > nav > ul > li {
 
 .userCard{
 
-  border:1px solid red;
   max-width: 940px;
   margin-left: auto;
   margin-right: auto;
-  background-color: #EFEFEF;
+  background-color: white;
 }
 .userCard .welcome {
   background: #E6686A;
